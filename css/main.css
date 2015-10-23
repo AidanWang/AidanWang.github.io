@@ -7,8 +7,8 @@ h1{
     width: 300px;
     height: 300px;
     background:url("../img/wyr.jpg");
-     border-radius:100%; 
-    border:20px red  solid;
+     border-radius:20%; 
+    border:10px red  solid;
     background-size:cover;
     
 }
