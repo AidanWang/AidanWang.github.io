@@ -6,7 +6,7 @@ h1{
 .nov{
     width: 300px;
     height: 300px;
-    background:url(../img/wyr.jpg);
+    background:url("../img/wyr.jpg");
      border-radius:100%; 
     border:20px red  solid;
     background-size:cover;
